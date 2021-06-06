@@ -4,7 +4,7 @@ This repository implements a sigma-lognormal-based signature synthesis algorithm
 
 ##### Pipeline
 
-1. Signature preprocessing. Please refer to the "preprocessing" directory. Preprocessed data will be saved in the "data" directory.
+1. Signature preprocessing. Please refer to the "preprocess" directory. Preprocessed data will be saved in the "data" directory.
 
 2. Sigma-lognormal parameter extraction. Refer to the "sigma_lornormal" directory. The extractParams_full.py script considers the pen-ups and pen-downs as a single component, whereas extractParams_stroke.py only considers the pen-downs. Extracted parameters will be saved in the "sigma_lognormal/params" directory.
 
