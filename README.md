@@ -24,7 +24,7 @@ Tested with PyTorch 1.6 and Python 3.7.
 
 ##### References
 
-[1] Lai S, Jin L, Zhu Y, et al. SynSig2Vec: Forgery-free learning of dynamic signature representations by Sigma Lognormal-based Synthesis[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
+[1] Lai S, Jin L, Zhu Y, et al. SynSig2Vec: Forgery-free learning of dynamic signature representations by Sigma Lognormal-based Synthesis and 1D CNN[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021.
 
 [2] Lai S, Jin L, Lin L, et al. SynSig2Vec: Learning representations from synthetic dynamic signatures for real-world verification[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(01): 735-742.
 
