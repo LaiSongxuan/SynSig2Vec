@@ -31,3 +31,7 @@ Tested with PyTorch 1.6 and Python 3.7.
 [3] O’Reilly C, Plamondon R. Development of a Sigma–Lognormal representation for on-line signatures[J]. Pattern Recognition, 2009, 42(12): 3324-3337.
 
 [4] Tolosana R, Vera-Rodriguez R, Fierrez J, et al. DeepSign: Deep on-line signature verification[J]. IEEE Transactions on Biometrics, Behavior, and Identity Science, 2021.
+
+##### Contacts
+
+eesxlai@qq.com & eelwjin@scut.edu.cn
